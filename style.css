@@ -1,14 +1,4 @@
-
-
-
-
-
-
-
-
-
 body {
-
 color: white;
 background: black;
 margin: 0px; }
@@ -29,7 +19,9 @@ section {
     justify-content: center;
 }
 
-
+.chamada-texto {
+    margin-right: 5%;
+}
 
 
 
